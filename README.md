@@ -1,2 +1,2 @@
-# ubCharacterController2D
-Basic 2D character controller
+# ubCharacterMotor2D
+A simple API to control a top down character in Unity.
